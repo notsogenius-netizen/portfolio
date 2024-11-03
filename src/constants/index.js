@@ -27,7 +27,7 @@ export const myProjects = [
     desc: "The ultimate job portal designed to connect job seekers with their dream careers. Whether you’re just starting out, looking to advance in your field, or seeking a complete career change, GetHired offers the tools and resources you need to navigate the job market with confidence.",
     subdesc:
       "Built as a unique app with React, Tailwind CSS, JavaScript, Supabase, Shadcn UI and Clerk, getHired is designed for optimal performance and scalability.",
-    href: "https://www.youtube.com/watch?v=zfAb95tJvZQ",
+    href: "https://github.com/notsogenius-netizen/getHired",
     texture: "/textures/project/project1.mp4",
     logo: "/assets/project-logo1.png",
     logoStyle: {
@@ -64,7 +64,7 @@ export const myProjects = [
     desc: "Welcome to Moon Walk, the blog app that invites you to journey through thoughts, ideas, and experiences under the glow of a metaphorical moon. Whether you’re a seasoned writer or just starting out, Moon Walk offers a serene space for self-expression and discovery.",
     subdesc:
       "Built with React and Appwrite for its backend, Moon Walk is an intuitive platform that allows users to create, edit, and delete their own blogs. It offers a seamless experience for writers and readers alike.",
-    href: "https://www.youtube.com/watch?v=Ahwoks_dawU",
+    href: "https://github.com/notsogenius-netizen/BlogApp",
     texture: "/textures/project/moonWalk.mp4",
     logo: "/assets/project-logo5.png",
     logoStyle: {

@@ -61,6 +61,7 @@ const Projects = () => {
             <a
               className="flex items-center gap-2 cursor-pointer text-white-600"
               target="_black"
+              href={currentProject.href}
               rel="noreferrer"
             >
               <p>Check Github</p>
